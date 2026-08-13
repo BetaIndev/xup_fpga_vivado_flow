@@ -52,12 +52,12 @@ For the PYNQ-Z2, when creating Vivado projects, select the **xc7z020clg400-1** Z
 
 **For Boolean:**
 
-For the Boolean board, when creating Vivado projects, select the **xc7s50csga342-1** Spartan-7 device with the following attributes:
+For the Boolean board, when creating Vivado projects, select the **xc7s50csga324-1** Spartan-7 device with the following attributes:
 
-| **Part Number**       | xc7s50csga342-1 |
+| **Part Number**       | xc7s50csga324-1 |
 | --------------------- | --------------- |
 | **Family**            | Spartan-7       |
-| **Package**           | ccsga324        |
+| **Package**           | csga324         |
 | **Speed Grade**       | -1              |
 | **Temperature Grade** | C               |
 
